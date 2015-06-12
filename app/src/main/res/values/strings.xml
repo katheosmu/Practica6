@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">JyC Delicias</string>
+
+    <string name="editar">Editar</string>
+    <string name="title_activity_mapas">Ver Mapas</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="publicidad">Esta aplicación te permite almacenar información de tu interes
+        digitando el nombre de la sede de tu restaurante favorito, JyC Delicias, latitud y
+        longitud, el diseño es a su gusto. Se mostrarán todas las sedes que están almacenadas,
+        adicional a esto, se muestrar tu ubicación actual</string>
+
+    <string name="Nombre">Sede</string>
+    <string name="lat">Latitud</string>
+    <string name="longi">Longitud</string>
+
+    <string name="title_activity_hotel">HotelActivity</string>
+    
+
+    <string name="SanMartinCampestre">San Martin Campestre</string>
+    <string name="hotelsanmartin">Horario de atención: Horarios de oficina \r\n Dirección:Vereda Bizcocho \r\nTeléfono:321 639 82 22</string>
+
+    <string name="DonFabio">Hotel Don Fabio</string>
+    <string name="hoteldonfabio">Disponemos de dos sedes: una urbana y una semi-urbana, cerca parque con parqueo. \n
+Quejas y sugerencias 3206800944</string>
+
+    <string name="ElCastillito">El Castillito</string>
+    <string name="hotelelcastillito"> \r\nDirección: Cr 29 30 - 37(4)\r\nTelefono: 8587583</string>
+
+
+    <string name="title_activity_turismo">Turismo</string>
+    <string name="title_activity_demografia">Demografia</string>
+
+    <string name="Expats">Expats Bar</string>
+    <string name="expatsbar">Musica variada, perfecto para disfrutar de una charla con los amigos</string>
+
+    <string name="Discos">Discotecas</string>
+    <string name="discos">La gente que visita San Rafael, en la noche, puede disfrutar de variadas discotecas alrededor del parque</string>
+
+    <string name="Fiestas">Fiestas del Rio</string>
+    <string name="fiestas">En Enero se celebran las principales festividades: Las Fiestas del Rio.</string>
+
+    <string name="Turismo">Turismo</string>
+
+    <string name="Camping">Camping \n El Bizcocho</string>
+    <string name="elbizcocho">Vía a Medellín a 6 km.  Del casco urbano carretera pavimentada, administrado por la Cooperativa Multiactiva San Rafael.
+
+\n Conocido también como las Malvinas, Vía a Medellín a 6 km. \n Del casco urbano carretera pavimentada, administrado por la Cooperativa Multiactiva San Rafael.
+\n Ofrece los servicios de: \n
+·        Restaurante \n
+·        Bar \n
+·        Hospedaje \n
+·        Zona de camping \n
+·        Actividades acuáticas \n
+·        Pesca deportiva en estanques</string>
+
+    <string name="CasaCultura">Casa de la Cultura</string>
+    <string name="casacultura">Contiguo al hospital y al parque de la Madre, la casa de la cultura tomó el nombre de Clemente Antonio Giraldo, primer alcalde elegido popularmente y quien inauguró la obra. El espacio atesora conocimiento impreso en los libros de la biblioteca y sirve de promotor, difusor y formador artístico.</string>
+
+    <string name="LaTernera">Parque \n Las Terneras</string>
+    <string name="laternera">Km 2.5 Via El Arenal, San Rafael (Antioquia)</string>
+
+    <string name="Demografia">Demografia</string>
+    <string name="presentacion">San Rafael Embrujo de Aguas Cristalinas</string>
+    <string name="mas">San Rafael es un municipio de Colombia, localizado en la subregión Oriente del departamento de Antioquia. Limita por el norte con los municipios de Alejandría y San Roque, por el este y el sur con el municipio de San Carlos y por el oeste con los municipios de Guatapé y Alejandría.</string>
+    <string name="title_activity_fragment">Fragment</string>
+
+    <string name="hello_world">Hello world!</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
